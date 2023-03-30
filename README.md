@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Merve</h1>
-<h3 align="center">Business Intelligence Specialist from Turkey</h3>
 
 - 📫 How to reach me **mervetorkan@gmail.com**
 
